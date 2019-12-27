@@ -8,6 +8,7 @@ Resources:
 - Mike Bostock's blog: https://bost.ocks.org/mike/
   - Data Join tutorial: https://bost.ocks.org/mike/join/
   - Intro to D3 example (bar chart): https://bost.ocks.org/mike/bar/
+
 Todo:
 - create world map w/ geomapping(in D3 book)
 - get data for heads of state, location, description, and time period
