@@ -1,1 +1,1399 @@
-{"stateHeads":[{"name": "Khertek Anchimaa-Toka", "country" : "Tannu Tuva", "office" : "Chairperson of the Presidium of the Little Khural", "mandate_start" : "6 April 1940", "mandate_end" : "11 October 1944", "term_length" : "4 years, 188 days", "head_of_state_or_gov" : "Head of state"},{"name": "Sükhbaataryn Yanjmaa", "country" : "Mongolia", "office" : "Acting Chairperson of the Presidium of the State Great Khural", "mandate_start" : "7 September 1953", "mandate_end" : "7 July 1954", "term_length" : "303 days", "head_of_state_or_gov" : "Head of state"},{"name": "Sirimavo Bandaranaike", "country" : "Ceylon", "office" : "Prime Minister", "mandate_start" : "21 July 1960", "mandate_end" : "27 March 1965", "term_length" : "4 years, 249 days", "head_of_state_or_gov" : "Head of government"},{"name": "Indira Gandhi", "country" : "India", "office" : "Prime Minister", "mandate_start" : "24 January 1966", "mandate_end" : "24 April 1977", "term_length" : "11 years, 90 days", "head_of_state_or_gov" : "Head of government"},{"name": "Soong Ching-ling", "country" : "China", "office" : "Acting Co-Chairperson", "mandate_start" : "31 October 1968", "mandate_end" : "24 April 1972", "term_length" : "3 years, 176 days", "head_of_state_or_gov" : "Head of state"},{"name": "Golda Meir", "country" : "Israel", "office" : "Prime Minister", "mandate_start" : "17 March 1969", "mandate_end" : "3 June 1974", "term_length" : "5 years, 78 days", "head_of_state_or_gov" : "Head of government"},{"name": "Sirimavo Bandaranaike", "country" : "Ceylon/ Sri Lanka", "office" : "Prime Minister", "mandate_start" : "29 May 1970", "mandate_end" : "23 July 1977", "term_length" : "7 years, 55 days", "head_of_state_or_gov" : "Head of government"},{"name": "Isabel Martínez de Perón", "country" : "Argentina", "office" : "President", "mandate_start" : "1 July 1974", "mandate_end" : "24 March 1976", "term_length" : "1 year, 267 days", "head_of_state_or_gov" : "Head of state and government"},{"name": "Elisabeth Domitien", "country" : "Central African Republic", "office" : "Prime Minister", "mandate_start" : "2 January 1975", "mandate_end" : "7 April 1976", "term_length" : "1 year, 96 days", "head_of_state_or_gov" : "*"},{"name": "Margaret Thatcher", "country" : "United Kingdom", "office" : "Prime Minister", "mandate_start" : "4 May 1979", "mandate_end" : "28 November 1990", "term_length" : "11 years, 208 days", "head_of_state_or_gov" : "Head of government"},{"name": "Maria de Lourdes Pintasilgo", "country" : "Portugal", "office" : "Prime Minister", "mandate_start" : "1 August 1979", "mandate_end" : "3 January 1980", "term_length" : "186 days", "head_of_state_or_gov" : "Head of government"},{"name": "Lidia Gueiler Tejada", "country" : "Bolivia", "office" : "Acting President", "mandate_start" : "16 November 1979", "mandate_end" : "17 July 1980", "term_length" : "244 days", "head_of_state_or_gov" : "Head of state"},{"name": "Indira Gandhi", "country" : "India", "office" : "Prime Minister", "mandate_start" : "15 January 1980", "mandate_end" : "31 October 1984(assassinated)", "term_length" : "4 years, 290 days", "head_of_state_or_gov" : "Head of government"},{"name": "Dame Eugenia Charles", "country" : "Dominica", "office" : "Prime Minister", "mandate_start" : "21 July 1980", "mandate_end" : "14 June 1995", "term_length" : "14 years, 328 days", "head_of_state_or_gov" : "Head of government"},{"name": "Vigdís Finnbogadóttir", "country" : "Iceland", "office" : "President", "mandate_start" : "1 August 1980", "mandate_end" : "31 July 1996", "term_length" : "16 years, 0 days", "head_of_state_or_gov" : "Head of state"},{"name": "Gro Harlem Brundtland", "country" : "Norway", "office" : "Prime Minister", "mandate_start" : "4 February 1981", "mandate_end" : "14 October 1981", "term_length" : "252 days", "head_of_state_or_gov" : "Head of government"},{"name": "Soong Ching-ling", "country" : "China", "office" : "Honorary President", "mandate_start" : "16 May 1981", "mandate_end" : "28 May 1981", "term_length" : "12 days", "head_of_state_or_gov" : "Head of state"},{"name": "Agatha Barbara", "country" : "Malta", "office" : "President", "mandate_start" : "15 February 1982", "mandate_end" : "15 February 1987", "term_length" : "5 years, 0 days", "head_of_state_or_gov" : "Head of state"},{"name": "Milka Planinc", "country" : "Yugoslavia", "office" : "Prime Minister", "mandate_start" : "16 May 1982", "mandate_end" : "15 May 1986", "term_length" : "3 years, 364 days", "head_of_state_or_gov" : "Head of government"},{"name": "Carmen Pereira", "country" : "Guinea-Bissau", "office" : "Acting President", "mandate_start" : "14 May 1984", "mandate_end" : "16 May 1984", "term_length" : "2 days", "head_of_state_or_gov" : "Head of state"},{"name": "Corazon Aquino", "country" : "Philippines", "office" : "President", "mandate_start" : "25 February 1986", "mandate_end" : "30 June 1992", "term_length" : "6 years, 126 days", "head_of_state_or_gov" : "Head of state and government"},{"name": "Gro Harlem Brundtland", "country" : "Norway", "office" : "Prime Minister", "mandate_start" : "9 May 1986", "mandate_end" : "16 October 1989", "term_length" : "3 years, 160 days", "head_of_state_or_gov" : "Head of government"},{"name": "Stella Sigcau", "country" : "Transkei", "office" : "Prime Minister", "mandate_start" : "5 October 1987", "mandate_end" : "30 December 1987", "term_length" : "86 days", "head_of_state_or_gov" : "Head of government"},{"name": "Benazir Bhutto", "country" : "Pakistan", "office" : "Prime Minister", "mandate_start" : "2 December 1988", "mandate_end" : "6 July 1990", "term_length" : "1 year, 216 days", "head_of_state_or_gov" : "Head of government"},{"name": "Ertha Pascal-Trouillot", "country" : "Haiti", "office" : "Acting President", "mandate_start" : "13 March 1990", "mandate_end" : "7 February 1991", "term_length" : "331 days", "head_of_state_or_gov" : "Head of state"},{"name": "Kazimira Prunskienė", "country" : "Lithuania", "office" : "Prime Minister", "mandate_start" : "17 March 1990", "mandate_end" : "10 January 1991", "term_length" : "299 days", "head_of_state_or_gov" : "Head of government"},{"name": "Sabine Bergmann-Pohl", "country" : "East Germany", "office" : "President of the Peoples Chamber", "mandate_start" : "5 April 1990", "mandate_end" : "2 October 1990", "term_length" : "180 days", "head_of_state_or_gov" : "Head of state"},{"name": "Violeta Chamorro", "country" : "Nicaragua", "office" : "President", "mandate_start" : "25 April 1990", "mandate_end" : "10 January 1997", "term_length" : "6 years, 260 days", "head_of_state_or_gov" : "Head of state and government"},{"name": "Gro Harlem Brundtland", "country" : "Norway", "office" : "Prime Minister", "mandate_start" : "3 November 1990", "mandate_end" : "25 October 1996", "term_length" : "5 years, 357 days", "head_of_state_or_gov" : "Head of government"},{"name": "Mary Robinson", "country" : "Ireland", "office" : "President", "mandate_start" : "3 December 1990", "mandate_end" : "12 September 1997", "term_length" : "6 years, 283 days", "head_of_state_or_gov" : "Head of state"},{"name": "Khaleda Zia", "country" : "Bangladesh", "office" : "Prime Minister", "mandate_start" : "27 February 1991", "mandate_end" : "30 March 1996", "term_length" : "5 years, 32 days", "head_of_state_or_gov" : "Head of government"},{"name": "Édith Cresson", "country" : "France", "office" : "Prime Minister", "mandate_start" : "15 May 1991", "mandate_end" : "2 April 1992", "term_length" : "323 days", "head_of_state_or_gov" : "Head of government"},{"name": "Hanna Suchocka", "country" : "Poland", "office" : "Prime Minister", "mandate_start" : "11 July 1992", "mandate_end" : "25 October 1993", "term_length" : "1 year, 106 days", "head_of_state_or_gov" : "Head of government"},{"name": "Tansu Çiller", "country" : "Turkey", "office" : "Prime Minister", "mandate_start" : "13 June 1993", "mandate_end" : "6 March 1996", "term_length" : "2 years, 267 days", "head_of_state_or_gov" : "Head of government"},{"name": "Kim Campbell", "country" : "Canada", "office" : "Prime Minister", "mandate_start" : "25 June 1993", "mandate_end" : "4 November 1993", "term_length" : "132 days", "head_of_state_or_gov" : "Head of government"},{"name": "Sylvie Kinigi", "country" : "Burundi", "office" : "Prime Minister", "mandate_start" : "10 July 1993", "mandate_end" : "27 October 1993", "term_length" : "109 days", "head_of_state_or_gov" : "Head of government"},{"name": "Agathe Uwilingiyimana", "country" : "Rwanda", "office" : "Prime Minister", "mandate_start" : "18 July 1993", "mandate_end" : "7 April 1994(assassinated)", "term_length" : "263 days", "head_of_state_or_gov" : "Head of government"},{"name": "Benazir Bhutto", "country" : "Pakistan", "office" : "Prime Minister", "mandate_start" : "19 October 1993", "mandate_end" : "5 November 1996", "term_length" : "3 years, 17 days", "head_of_state_or_gov" : "Head of government"},{"name": "Sylvie Kinigi", "country" : "Burundi", "office" : "Acting President", "mandate_start" : "27 October 1993", "mandate_end" : "5 February 1994", "term_length" : "101 days", "head_of_state_or_gov" : "Head of state"},{"name": "Chandrika Kumaratunga", "country" : "Sri Lanka", "office" : "Prime Minister", "mandate_start" : "19 August 1994", "mandate_end" : "12 November 1994", "term_length" : "85 days", "head_of_state_or_gov" : "Deputy head of government"},{"name": "Sirimavo Bandaranaike", "country" : "Sri Lanka", "office" : "Prime Minister", "mandate_start" : "14 November 1994", "mandate_end" : "9 August 2000", "term_length" : "5 years, 269 days", "head_of_state_or_gov" : "Deputy head of government"},{"name": "Reneta Indzhova", "country" : "Bulgaria", "office" : "Acting Prime Minister", "mandate_start" : "17 October 1994", "mandate_end" : "25 January 1995", "term_length" : "100 days", "head_of_state_or_gov" : "Head of government"},{"name": "Claudette Werleigh", "country" : "Haiti", "office" : "Prime Minister", "mandate_start" : "7 November 1995", "mandate_end" : "27 February 1996", "term_length" : "112 days", "head_of_state_or_gov" : "Head of government"},{"name": "Sheikh Hasina", "country" : "Bangladesh", "office" : "Prime Minister", "mandate_start" : "12 June 1996", "mandate_end" : "15 July 2001", "term_length" : "5 years, 33 days", "head_of_state_or_gov" : "Head of government"},{"name": "Ruth Perry", "country" : "Liberia", "office" : "Chairman of the Council of State", "mandate_start" : "3 September 1996", "mandate_end" : "2 August 1997", "term_length" : "333 days", "head_of_state_or_gov" : "Head of state and government"},{"name": "Rosalía Arteaga Serrano", "country" : "Ecuador", "office" : "Acting President", "mandate_start" : "9 February 1997", "mandate_end" : "11 February 1997", "term_length" : "2 days", "head_of_state_or_gov" : "Head of state and government"},{"name": "Mary McAleese", "country" : "Ireland", "office" : "President", "mandate_start" : "11 November 1997", "mandate_end" : "10 November 2011", "term_length" : "13 years, 364 days", "head_of_state_or_gov" : "Head of state"},{"name": "Jenny Shipley", "country" : "New Zealand", "office" : "Prime Minister", "mandate_start" : "5 December 1997", "mandate_end" : "5 December 1999", "term_length" : "2 years, 0 days", "head_of_state_or_gov" : "Head of government"},{"name": "Janet Jagan", "country" : "Guyana", "office" : "Prime Minister", "mandate_start" : "17 March 1997", "mandate_end" : "19 December 1997", "term_length" : "277 days", "head_of_state_or_gov" : "*"},{"name": "Irena Degutienė", "country" : "Lithuania", "office" : "Acting Prime Minister", "mandate_start" : "4 May 1999", "mandate_end" : "18 May 1999", "term_length" : "14 days", "head_of_state_or_gov" : "Head of government"},{"name": "Vaira Vīķe-Freiberga", "country" : "Latvia", "office" : "President", "mandate_start" : "8 July 1999", "mandate_end" : "8 July 2007", "term_length" : "8 years, 0 days", "head_of_state_or_gov" : "Head of state"},{"name": "Nyam-Osoryn Tuyaa", "country" : "Mongolia", "office" : "Acting Prime Minister", "mandate_start" : "22 July 1999", "mandate_end" : "30 July 1999", "term_length" : "8 days", "head_of_state_or_gov" : "Head of government"},{"name": "Mireya Moscoso", "country" : "Panama", "office" : "President", "mandate_start" : "1 September 1999", "mandate_end" : "1 September 2004", "term_length" : "5 years, 0 days", "head_of_state_or_gov" : "Head of state and government"},{"name": "Irena Degutienė", "country" : "Lithuania", "office" : "Acting Prime Minister", "mandate_start" : "27 October 1999", "mandate_end" : "3 November 1999", "term_length" : "7 days", "head_of_state_or_gov" : "Head of government"},{"name": "Helen Clark", "country" : "New Zealand", "office" : "Prime Minister", "mandate_start" : "5 December 1999", "mandate_end" : "19 November 2008", "term_length" : "8 years, 350 days", "head_of_state_or_gov" : "Head of government"},{"name": "Tarja Halonen", "country" : "Finland", "office" : "President", "mandate_start" : "1 March 2000", "mandate_end" : "1 March 2012", "term_length" : "12 years, 0 days", "head_of_state_or_gov" : "Head of state"},{"name": "Gloria Macapagal Arroyo", "country" : "Philippines", "office" : "President", "mandate_start" : "20 January 2001", "mandate_end" : "30 June 2010", "term_length" : "9 years, 161 days", "head_of_state_or_gov" : "Head of state and government"},{"name": "Mame Madior Boye", "country" : "Senegal", "office" : "Prime Minister", "mandate_start" : "3 March 2001", "mandate_end" : "4 November 2002", "term_length" : "1 year, 246 days", "head_of_state_or_gov" : "Head of government"},{"name": "Megawati Sukarnoputri", "country" : "Indonesia", "office" : "President", "mandate_start" : "23 July 2001", "mandate_end" : "20 October 2004", "term_length" : "3 years, 89 days", "head_of_state_or_gov" : "Head of state and government"},{"name": "Khaleda Zia", "country" : "Bangladesh", "office" : "Prime Minister", "mandate_start" : "1 October 2001", "mandate_end" : "29 October 2006", "term_length" : "5 years, 28 days", "head_of_state_or_gov" : "Head of government"},{"name": "Chang Sang", "country" : "South Korea", "office" : "Acting Prime Minister", "mandate_start" : "11 July 2002", "mandate_end" : "31 July 2002", "term_length" : "20 days", "head_of_state_or_gov" : "*"},{"name": "Maria das Neves", "country" : "São Tomé and Príncipe", "office" : "Prime Minister", "mandate_start" : "3 October 2002", "mandate_end" : "18 September 2004", "term_length" : "1 year, 351 days", "head_of_state_or_gov" : "Head of government"},{"name": "Anneli Jäätteenmäki", "country" : "Finland", "office" : "Prime Minister", "mandate_start" : "17 April 2003", "mandate_end" : "24 June 2003", "term_length" : "68 days", "head_of_state_or_gov" : "Head of government"},{"name": "Beatriz Merino", "country" : "Peru", "office" : "Prime Minister", "mandate_start" : "28 June 2003", "mandate_end" : "15 December 2003", "term_length" : "170 days", "head_of_state_or_gov" : "*"},{"name": "Nino Burjanadze", "country" : "Georgia", "office" : "Acting President", "mandate_start" : "23 November 2003", "mandate_end" : "25 January 2004", "term_length" : "63 days", "head_of_state_or_gov" : "Head of state"},{"name": "Luísa Diogo", "country" : "Mozambique", "office" : "Prime Minister", "mandate_start" : "17 February 2004", "mandate_end" : "16 January 2010", "term_length" : "5 years, 333 days", "head_of_state_or_gov" : "Head of government"},{"name": "Barbara Prammer", "country" : "Austria", "office" : "Co-Acting President", "mandate_start" : "6 July 2004", "mandate_end" : "8 July 2004", "term_length" : "2 days", "head_of_state_or_gov" : "Head of state"},{"name": "Radmila Šekerinska", "country" : "North Macedonia", "office" : "Acting Prime Minister", "mandate_start" : "12 May 2004", "mandate_end" : "12 June 2004", "term_length" : "31 days", "head_of_state_or_gov" : "Head of government"},{"name": "Yulia Tymoshenko", "country" : "Ukraine", "office" : "Prime Minister", "mandate_start" : "24 January 2005", "mandate_end" : "6 September 2005", "term_length" : "225 days", "head_of_state_or_gov" : "Head of government"},{"name": "Maria do Carmo Silveira", "country" : "São Tomé and Príncipe", "office" : "Prime Minister", "mandate_start" : "8 June 2005", "mandate_end" : "21 April 2006", "term_length" : "317 days", "head_of_state_or_gov" : "Head of government"},{"name": "Angela Merkel", "country" : "Germany", "office" : "Chancellor", "mandate_start" : "22 November 2005", "mandate_end" : "Incumbent", "term_length" : "14 years, 36 days", "head_of_state_or_gov" : "Head of government"},{"name": "Ellen Johnson Sirleaf", "country" : "Liberia", "office" : "President", "mandate_start" : "16 January 2006", "mandate_end" : "22 January 2018", "term_length" : "12 years, 6 days", "head_of_state_or_gov" : "Head of state and government"},{"name": "Michelle Bachelet", "country" : "Chile", "office" : "President", "mandate_start" : "11 March 2006", "mandate_end" : "11 March 2010", "term_length" : "4 years, 0 days", "head_of_state_or_gov" : "Head of state and government"},{"name": "Portia Simpson-Miller", "country" : "Jamaica", "office" : "Prime Minister", "mandate_start" : "30 March 2006", "mandate_end" : "11 September 2007", "term_length" : "1 year, 165 days", "head_of_state_or_gov" : "Head of government"},{"name": "Han Myeong-sook", "country" : "South Korea", "office" : "Prime Minister", "mandate_start" : "19 April 2006", "mandate_end" : "7 March 2007", "term_length" : "322 days", "head_of_state_or_gov" : "*"},{"name": "Dalia Itzik", "country" : "Israel", "office" : "Acting President", "mandate_start" : "25 January 2007", "mandate_end" : "15 July 2007", "term_length" : "171 days", "head_of_state_or_gov" : "Head of state"},{"name": "Pratibha Patil", "country" : "India", "office" : "President", "mandate_start" : "25 July 2007", "mandate_end" : "25 July 2012", "term_length" : "5 years, 0 days", "head_of_state_or_gov" : "Head of state"},{"name": "Nino Burjanadze", "country" : "Georgia", "office" : "Acting President", "mandate_start" : "25 November 2007", "mandate_end" : "20 January 2008", "term_length" : "56 days", "head_of_state_or_gov" : "Head of state"},{"name": "Cristina Fernández de Kirchner", "country" : "Argentina", "office" : "President", "mandate_start" : "10 December 2007", "mandate_end" : "9 December 2015", "term_length" : "7 years, 364 days", "head_of_state_or_gov" : "Head of state and government"},{"name": "Yulia Tymoshenko", "country" : "Ukraine", "office" : "Prime Minister", "mandate_start" : "18 December 2007", "mandate_end" : "3 March 2010", "term_length" : "2 years, 75 days", "head_of_state_or_gov" : "Head of government"},{"name": "Zinaida Greceanîi", "country" : "Moldova", "office" : "Prime Minister", "mandate_start" : "31 March 2008", "mandate_end" : "14 September 2009", "term_length" : "1 year, 167 days", "head_of_state_or_gov" : "Head of government"},{"name": "Michèle Pierre-Louis", "country" : "Haiti", "office" : "Prime Minister", "mandate_start" : "5 September 2008", "mandate_end" : "11 November 2009", "term_length" : "1 year, 67 days", "head_of_state_or_gov" : "Head of government"},{"name": "Sheikh Hasina", "country" : "Bangladesh", "office" : "Prime Minister", "mandate_start" : "6 January 2009", "mandate_end" : "Incumbent", "term_length" : "10 years, 356 days", "head_of_state_or_gov" : "Head of government"},{"name": "Jóhanna Sigurðardóttir", "country" : "Iceland", "office" : "Prime Minister", "mandate_start" : "1 February 2009", "mandate_end" : "23 May 2013", "term_length" : "4 years, 111 days", "head_of_state_or_gov" : "Head of government"},{"name": "Rose Francine Rogombé", "country" : "Gabon", "office" : "Acting President", "mandate_start" : "10 June 2009", "mandate_end" : "16 October 2009", "term_length" : "128 days", "head_of_state_or_gov" : "Head of state"},{"name": "Jadranka Kosor", "country" : "Croatia", "office" : "Prime Minister", "mandate_start" : "6 July 2009", "mandate_end" : "23 December 2011", "term_length" : "2 years, 170 days", "head_of_state_or_gov" : "Head of government"},{"name": "Dalia Grybauskaitė", "country" : "Lithuania", "office" : "President", "mandate_start" : "12 July 2009", "mandate_end" : "12 July 2019", "term_length" : "10 years, 0 days", "head_of_state_or_gov" : "Head of state"},{"name": "Cécile Manorohanta", "country" : "Madagascar", "office" : "Acting Prime Minister", "mandate_start" : "18 December 2009", "mandate_end" : "20 December 2009", "term_length" : "2 days", "head_of_state_or_gov" : "Head of government"},{"name": "Roza Otunbayeva", "country" : "Kyrgyzstan", "office" : "President", "mandate_start" : "7 April 2010", "mandate_end" : "1 December 2011", "term_length" : "1 year, 238 days", "head_of_state_or_gov" : "Head of state"},{"name": "Laura Chinchilla", "country" : "Costa Rica", "office" : "President", "mandate_start" : "8 May 2010", "mandate_end" : "8 May 2014", "term_length" : "4 years, 0 days", "head_of_state_or_gov" : "Head of state and government"},{"name": "Kamla Persad-Bissessar", "country" : "Trinidad and Tobago", "office" : "Prime Minister", "mandate_start" : "26 May 2010", "mandate_end" : "9 September 2015", "term_length" : "5 years, 106 days", "head_of_state_or_gov" : "Head of government"},{"name": "Mari Kiviniemi", "country" : "Finland", "office" : "Prime Minister", "mandate_start" : "22 June 2010", "mandate_end" : "22 June 2011", "term_length" : "1 year, 0 days", "head_of_state_or_gov" : "Head of government"},{"name": "Julia Gillard", "country" : "Australia", "office" : "Prime Minister", "mandate_start" : "24 June 2010", "mandate_end" : "27 June 2013", "term_length" : "3 years, 3 days", "head_of_state_or_gov" : "Head of government"},{"name": "Iveta Radičová", "country" : "Slovakia", "office" : "Prime Minister", "mandate_start" : "8 July 2010", "mandate_end" : "4 April 2012", "term_length" : "1 year, 271 days", "head_of_state_or_gov" : "Head of government"},{"name": "Dilma Rousseff", "country" : "Brazil", "office" : "President", "mandate_start" : "1 January 2011", "mandate_end" : "31 August 2016Suspended 12 May 2016", "term_length" : "5 years, 243 days5 years, 132 days", "head_of_state_or_gov" : "Head of state and government"},{"name": "Rosario Fernández", "country" : "Peru", "office" : "Prime Minister", "mandate_start" : "19 March 2011", "mandate_end" : "28 July 2011", "term_length" : "131 days", "head_of_state_or_gov" : "*"},{"name": "Cissé Mariam Kaïdama Sidibé", "country" : "Mali", "office" : "Prime Minister", "mandate_start" : "3 April 2011", "mandate_end" : "22 March 2012", "term_length" : "354 days", "head_of_state_or_gov" : "Head of government"},{"name": "Atifete Jahjaga", "country" : "Kosovo", "office" : "President", "mandate_start" : "7 April 2011", "mandate_end" : "7 April 2016", "term_length" : "5 years, 0 days", "head_of_state_or_gov" : "Head of state"},{"name": "Yingluck Shinawatra", "country" : "Thailand", "office" : "Prime Minister", "mandate_start" : "3 July 2011", "mandate_end" : "7 May 2014", "term_length" : "2 years, 308 days", "head_of_state_or_gov" : "Head of government"},{"name": "Helle Thorning-Schmidt", "country" : "Denmark", "office" : "Prime Minister", "mandate_start" : "3 October 2011", "mandate_end" : "28 June 2015", "term_length" : "3 years, 268 days", "head_of_state_or_gov" : "Head of government"},{"name": "Portia Simpson-Miller", "country" : "Jamaica", "office" : "Prime Minister", "mandate_start" : "5 January 2012", "mandate_end" : "3 March 2016", "term_length" : "4 years, 58 days", "head_of_state_or_gov" : "Head of government"},{"name": "Adiato Djaló Nandigna", "country" : "Guinea-Bissau", "office" : "Acting Prime Minister", "mandate_start" : "10 February 2012", "mandate_end" : "12 April 2012", "term_length" : "62 days", "head_of_state_or_gov" : "Head of government"},{"name": "Monique Ohsan Bellepeau", "country" : "Mauritius", "office" : "Acting President", "mandate_start" : "31 March 2012", "mandate_end" : "21 July 2012", "term_length" : "112 days", "head_of_state_or_gov" : "Head of state"},{"name": "Slavica Đukić Dejanović", "country" : "Serbia", "office" : "Acting President", "mandate_start" : "5 April 2012", "mandate_end" : "31 May 2012", "term_length" : "56 days", "head_of_state_or_gov" : "Head of state"},{"name": "Joyce Banda", "country" : "Malawi", "office" : "President", "mandate_start" : "7 April 2012", "mandate_end" : "31 May 2014", "term_length" : "2 years, 54 days", "head_of_state_or_gov" : "Head of state and government"},{"name": "Park Geun-hye", "country" : "South Korea", "office" : "President", "mandate_start" : "25 February 2013", "mandate_end" : "10 March 2017Suspended 9 December 2016", "term_length" : "4 years, 13 days3 years, 288 days", "head_of_state_or_gov" : "Head of state and government"},{"name": "Alenka Bratušek", "country" : "Slovenia", "office" : "Prime Minister", "mandate_start" : "20 March 2013", "mandate_end" : "18 September 2014", "term_length" : "1 year, 182 days", "head_of_state_or_gov" : "Head of government"},{"name": "Sibel Siber", "country" : "Northern Cyprus", "office" : "Prime Minister", "mandate_start" : "13 June 2013", "mandate_end" : "2 September 2013", "term_length" : "81 days", "head_of_state_or_gov" : "Head of government"},{"name": "Tatiana Turanskaya", "country" : "Transnistria", "office" : "Prime Minister", "mandate_start" : "10 June 2013", "mandate_end" : "13 October 2015", "term_length" : "2 years, 125 days", "head_of_state_or_gov" : "Head of government"},{"name": "Aminata Touré", "country" : "Senegal", "office" : "Prime Minister", "mandate_start" : "1 September 2013", "mandate_end" : "8 July 2014", "term_length" : "310 days", "head_of_state_or_gov" : "Head of government"},{"name": "Erna Solberg", "country" : "Norway", "office" : "Prime Minister", "mandate_start" : "16 October 2013", "mandate_end" : "Incumbent", "term_length" : "6 years, 73 days", "head_of_state_or_gov" : "Head of government"},{"name": "Laimdota Straujuma", "country" : "Latvia", "office" : "Prime Minister", "mandate_start" : "22 January 2014", "mandate_end" : "11 February 2016", "term_length" : "2 years, 20 days", "head_of_state_or_gov" : "Head of government"},{"name": "Catherine Samba-Panza", "country" : "Central African Republic", "office" : "Acting President", "mandate_start" : "23 January 2014", "mandate_end" : "30 March 2016", "term_length" : "2 years, 67 days", "head_of_state_or_gov" : "Head of state"},{"name": "Michelle Bachelet", "country" : "Chile", "office" : "President", "mandate_start" : "11 March 2014", "mandate_end" : "11 March 2018", "term_length" : "4 years, 0 days", "head_of_state_or_gov" : "Head of state and government"},{"name": "Marie-Louise Coleiro Preca", "country" : "Malta", "office" : "President", "mandate_start" : "4 April 2014", "mandate_end" : "4 April 2019", "term_length" : "5 years, 0 days", "head_of_state_or_gov" : "Head of state"},{"name": "Ana Jara", "country" : "Peru", "office" : "Prime Minister", "mandate_start" : "22 July 2014", "mandate_end" : "2 April 2015", "term_length" : "254 days", "head_of_state_or_gov" : "*"},{"name": "Ewa Kopacz", "country" : "Poland", "office" : "Prime Minister", "mandate_start" : "22 September 2014", "mandate_end" : "16 November 2015", "term_length" : "1 year, 55 days", "head_of_state_or_gov" : "Head of government"},{"name": "Florence Duperval Guillaume", "country" : "Haiti", "office" : "Acting Prime Minister", "mandate_start" : "20 December 2014", "mandate_end" : "16 January 2015", "term_length" : "27 days", "head_of_state_or_gov" : "Head of government"},{"name": "Kolinda Grabar-Kitarović", "country" : "Croatia", "office" : "President", "mandate_start" : "19 February 2015", "mandate_end" : "Incumbent", "term_length" : "4 years, 312 days", "head_of_state_or_gov" : "Head of state"},{"name": "Saara Kuugongelwa", "country" : "Namibia", "office" : "Prime Minister", "mandate_start" : "21 March 2015", "mandate_end" : "Incumbent", "term_length" : "4 years, 282 days", "head_of_state_or_gov" : "*"},{"name": "Monique Ohsan Bellepeau", "country" : "Mauritius", "office" : "Acting President", "mandate_start" : "29 May 2015", "mandate_end" : "5 June 2015", "term_length" : "7 days", "head_of_state_or_gov" : "Head of state"},{"name": "Ameenah Gurib", "country" : "Mauritius", "office" : "President", "mandate_start" : "5 June 2015", "mandate_end" : "23 March 2018", "term_length" : "2 years, 291 days", "head_of_state_or_gov" : "Head of state"},{"name": "Natalia Gherman", "country" : "Moldova", "office" : "Acting Prime Minister", "mandate_start" : "22 June 2015", "mandate_end" : "30 July 2015", "term_length" : "38 days", "head_of_state_or_gov" : "Head of government"},{"name": "Vassiliki Thanou", "country" : "Greece", "office" : "Acting Prime Minister", "mandate_start" : "27 August 2015", "mandate_end" : "21 September 2015", "term_length" : "25 days", "head_of_state_or_gov" : "Head of government"},{"name": "Maya Parnas", "country" : "Transnistria", "office" : "Acting Prime Minister", "mandate_start" : "13 October 2015", "mandate_end" : "30 November 2015", "term_length" : "48 days", "head_of_state_or_gov" : "Head of government"},{"name": "Bidhya Devi Bhandari", "country" : "  Nepal", "office" : "President", "mandate_start" : "29 October 2015", "mandate_end" : "Incumbent", "term_length" : "4 years, 60 days", "head_of_state_or_gov" : "Head of state"},{"name": "Beata Szydło", "country" : "Poland", "office" : "Prime Minister", "mandate_start" : "16 November 2015", "mandate_end" : "11 December 2017", "term_length" : "2 years, 25 days", "head_of_state_or_gov" : "Head of government"},{"name": "Tatiana Turanskaya", "country" : "Transnistria", "office" : "Prime Minister", "mandate_start" : "30 November 2015", "mandate_end" : "2 December 2015", "term_length" : "2 days", "head_of_state_or_gov" : "Head of government"},{"name": "Maya Parnas", "country" : "Transnistria", "office" : "Acting Prime Minister", "mandate_start" : "2 December 2015", "mandate_end" : "23 December 2015", "term_length" : "21 days", "head_of_state_or_gov" : "Head of government"},{"name": "Hilda Heine", "country" : "Marshall Islands", "office" : "President", "mandate_start" : "28 January 2016", "mandate_end" : "Incumbent", "term_length" : "3 years, 334 days", "head_of_state_or_gov" : "Head of state and government"},{"name": "Aung San Suu Kyi", "country" : "Myanmar", "office" : "State Counsellor", "mandate_start" : "6 April 2016", "mandate_end" : "Incumbent", "term_length" : "3 years, 266 days", "head_of_state_or_gov" : "de facto Head of government"},{"name": "Tsai Ing-wen", "country" : "Taiwan", "office" : "President", "mandate_start" : "20 May 2016", "mandate_end" : "Incumbent", "term_length" : "3 years, 222 days", "head_of_state_or_gov" : "Head of state"},{"name": "Doris Bures", "country" : "Austria", "office" : "Co-Acting President", "mandate_start" : "8 July 2016", "mandate_end" : "26 January 2017", "term_length" : "202 days", "head_of_state_or_gov" : "Head of state"},{"name": "Theresa May", "country" : "United Kingdom", "office" : "Prime Minister", "mandate_start" : "13 July 2016", "mandate_end" : "24 July 2019", "term_length" : "3 years, 11 days", "head_of_state_or_gov" : "Head of government"},{"name": "Kersti Kaljulaid", "country" : "Estonia", "office" : "President", "mandate_start" : "10 October 2016", "mandate_end" : "Incumbent", "term_length" : "3 years, 79 days", "head_of_state_or_gov" : "Head of state"},{"name": "Ana Brnabić", "country" : "Serbia", "office" : "Prime Minister", "mandate_start" : "29 June 2017", "mandate_end" : "Incumbent", "term_length" : "2 years, 182 days", "head_of_state_or_gov" : "Head of government"},{"name": "Halimah Yacob", "country" : "Singapore", "office" : "President", "mandate_start" : "14 September 2017", "mandate_end" : "Incumbent", "term_length" : "2 years, 105 days", "head_of_state_or_gov" : "Head of state"},{"name": "Mercedes Aráoz", "country" : "Peru", "office" : "Prime Minister", "mandate_start" : "17 September 2017", "mandate_end" : "2 April 2018", "term_length" : "197 days", "head_of_state_or_gov" : "*"},{"name": "Jacinda Ardern", "country" : "New Zealand", "office" : "Prime Minister", "mandate_start" : "26 October 2017", "mandate_end" : "Incumbent", "term_length" : "2 years, 63 days", "head_of_state_or_gov" : "Head of government"},{"name": "Katrín Jakobsdóttir", "country" : "Iceland", "office" : "Prime Minister", "mandate_start" : "30 November 2017", "mandate_end" : "Incumbent", "term_length" : "2 years, 28 days", "head_of_state_or_gov" : "Head of government"},{"name": "Viorica Dăncilă", "country" : "Romania", "office" : "Prime Minister", "mandate_start" : "29 January 2018", "mandate_end" : "4 November 2019", "term_length" : "1 year, 279 days", "head_of_state_or_gov" : "Head of government"},{"name": "Paula-Mae Weekes", "country" : "Trinidad and Tobago", "office" : "President", "mandate_start" : "19 March 2018", "mandate_end" : "Incumbent", "term_length" : "1 year, 284 days", "head_of_state_or_gov" : "Head of state"},{"name": "Mia Mottley", "country" : "Barbados", "office" : "Prime Minister", "mandate_start" : "25 May 2018", "mandate_end" : "Incumbent", "term_length" : "1 year, 217 days", "head_of_state_or_gov" : "Head of government"},{"name": "Đặng Thị Ngọc Thịnh", "country" : "Vietnam", "office" : "Acting President", "mandate_start" : "21 September 2018", "mandate_end" : "23 October 2018", "term_length" : "32 days", "head_of_state_or_gov" : "Head of state"},{"name": "Sahle-Work Zewde", "country" : "Ethiopia", "office" : "President", "mandate_start" : "25 October 2018", "mandate_end" : "Incumbent", "term_length" : "1 year, 64 days", "head_of_state_or_gov" : "Head of state"},{"name": "Salome Zurabishvili", "country" : "Georgia", "office" : "President", "mandate_start" : "16 December 2018", "mandate_end" : "Incumbent", "term_length" : "1 year, 12 days", "head_of_state_or_gov" : "Head of state"},{"name": "Brigitte Bierlein", "country" : "Austria", "office" : "Chancellor", "mandate_start" : "3 June 2019", "mandate_end" : "Incumbent", "term_length" : "208 days", "head_of_state_or_gov" : "Head of government"},{"name": "Maia Sandu", "country" : "Moldova", "office" : "Prime Minister", "mandate_start" : "8 June 2019", "mandate_end" : "14 November 2019", "term_length" : "159 days", "head_of_state_or_gov" : "Head of government"},{"name": "Zuzana Čaputová", "country" : "Slovakia", "office" : "President", "mandate_start" : "15 June 2019", "mandate_end" : "Incumbent", "term_length" : "196 days", "head_of_state_or_gov" : "Head of state"},{"name": "Mette Frederiksen", "country" : "Denmark", "office" : "Prime Minister", "mandate_start" : "27 June 2019", "mandate_end" : "Incumbent", "term_length" : "184 days", "head_of_state_or_gov" : "Head of government"},{"name": "Sophie Wilmès", "country" : "Belgium", "office" : "Prime Minister", "mandate_start" : "27 October 2019", "mandate_end" : "Incumbent", "term_length" : "62 days", "head_of_state_or_gov" : "Head of government"},{"name": "Jeanine Áñez (de-facto)", "country" : "Bolivia", "office" : "Acting President", "mandate_start" : "12 November 2019", "mandate_end" : "Incumbent", "term_length" : "46 days", "head_of_state_or_gov" : "Head of state and government"},{"name": "Sanna Marin", "country" : "Finland", "office" : "Prime Minister", "mandate_start" : "10 December 2019", "mandate_end" : "Incumbent", "term_length" : "18 days", "head_of_state_or_gov" : "Head of government"}, {"name":"Chandrika Kumaratunga", "country":"Sri Lanka", "office":"Prime Minister", "mandate_start":"19 August 1994", "mandate_end":"19 November 2005", "term_length":"11 years, 92 days", "head_of_state_or_gov" : "Head of state and government"},{"name":"Janet Jagan","country":"Guyana","office":"Prime Minister","mandate_start":"17 March 1997","mandate_end":"11 August 1999","term_length":"2 years, 147 days", "head_of_state_or_gov":"Head of state and government"}]}
+{
+   "stateHeads": [
+      {
+         "name": "Khertek Anchimaa-Toka",
+         "country": "Tannu Tuva",
+         "office": "Chairperson of the Presidium of the Little Khural",
+         "mandate_start": "6 April 1940",
+         "mandate_end": "11 October 1944",
+         "term_length": "4 years, 188 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Sükhbaataryn Yanjmaa",
+         "country": "Mongolia",
+         "office": "Acting Chairperson of the Presidium of the State Great Khural",
+         "mandate_start": "7 September 1953",
+         "mandate_end": "7 July 1954",
+         "term_length": "303 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Sirimavo Bandaranaike",
+         "country": "Ceylon",
+         "office": "Prime Minister",
+         "mandate_start": "21 July 1960",
+         "mandate_end": "27 March 1965",
+         "term_length": "4 years, 249 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Indira Gandhi",
+         "country": "India",
+         "office": "Prime Minister",
+         "mandate_start": "24 January 1966",
+         "mandate_end": "24 April 1977",
+         "term_length": "11 years, 90 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Soong Ching-ling",
+         "country": "China",
+         "office": "Acting Co-Chairperson",
+         "mandate_start": "31 October 1968",
+         "mandate_end": "24 April 1972",
+         "term_length": "3 years, 176 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Golda Meir",
+         "country": "Israel",
+         "office": "Prime Minister",
+         "mandate_start": "17 March 1969",
+         "mandate_end": "3 June 1974",
+         "term_length": "5 years, 78 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Sirimavo Bandaranaike",
+         "country": "Ceylon/ Sri Lanka",
+         "office": "Prime Minister",
+         "mandate_start": "29 May 1970",
+         "mandate_end": "23 July 1977",
+         "term_length": "7 years, 55 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Isabel Martínez de Perón",
+         "country": "Argentina",
+         "office": "President",
+         "mandate_start": "1 July 1974",
+         "mandate_end": "24 March 1976",
+         "term_length": "1 year, 267 days",
+         "head_of_state_or_gov": "Head of state and government"
+      },
+      {
+         "name": "Elisabeth Domitien",
+         "country": "Central African Republic",
+         "office": "Prime Minister",
+         "mandate_start": "2 January 1975",
+         "mandate_end": "7 April 1976",
+         "term_length": "1 year, 96 days",
+         "head_of_state_or_gov": "*"
+      },
+      {
+         "name": "Margaret Thatcher",
+         "country": "United Kingdom",
+         "office": "Prime Minister",
+         "mandate_start": "4 May 1979",
+         "mandate_end": "28 November 1990",
+         "term_length": "11 years, 208 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Maria de Lourdes Pintasilgo",
+         "country": "Portugal",
+         "office": "Prime Minister",
+         "mandate_start": "1 August 1979",
+         "mandate_end": "3 January 1980",
+         "term_length": "186 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Lidia Gueiler Tejada",
+         "country": "Bolivia",
+         "office": "Acting President",
+         "mandate_start": "16 November 1979",
+         "mandate_end": "17 July 1980",
+         "term_length": "244 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Indira Gandhi",
+         "country": "India",
+         "office": "Prime Minister",
+         "mandate_start": "15 January 1980",
+         "mandate_end": "31 October 1984(assassinated)",
+         "term_length": "4 years, 290 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Dame Eugenia Charles",
+         "country": "Dominica",
+         "office": "Prime Minister",
+         "mandate_start": "21 July 1980",
+         "mandate_end": "14 June 1995",
+         "term_length": "14 years, 328 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Vigdís Finnbogadóttir",
+         "country": "Iceland",
+         "office": "President",
+         "mandate_start": "1 August 1980",
+         "mandate_end": "31 July 1996",
+         "term_length": "16 years, 0 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Gro Harlem Brundtland",
+         "country": "Norway",
+         "office": "Prime Minister",
+         "mandate_start": "4 February 1981",
+         "mandate_end": "14 October 1981",
+         "term_length": "252 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Soong Ching-ling",
+         "country": "China",
+         "office": "Honorary President",
+         "mandate_start": "16 May 1981",
+         "mandate_end": "28 May 1981",
+         "term_length": "12 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Agatha Barbara",
+         "country": "Malta",
+         "office": "President",
+         "mandate_start": "15 February 1982",
+         "mandate_end": "15 February 1987",
+         "term_length": "5 years, 0 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Milka Planinc",
+         "country": "Yugoslavia",
+         "office": "Prime Minister",
+         "mandate_start": "16 May 1982",
+         "mandate_end": "15 May 1986",
+         "term_length": "3 years, 364 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Carmen Pereira",
+         "country": "Guinea-Bissau",
+         "office": "Acting President",
+         "mandate_start": "14 May 1984",
+         "mandate_end": "16 May 1984",
+         "term_length": "2 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Corazon Aquino",
+         "country": "Philippines",
+         "office": "President",
+         "mandate_start": "25 February 1986",
+         "mandate_end": "30 June 1992",
+         "term_length": "6 years, 126 days",
+         "head_of_state_or_gov": "Head of state and government"
+      },
+      {
+         "name": "Gro Harlem Brundtland",
+         "country": "Norway",
+         "office": "Prime Minister",
+         "mandate_start": "9 May 1986",
+         "mandate_end": "16 October 1989",
+         "term_length": "3 years, 160 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Stella Sigcau",
+         "country": "Transkei",
+         "office": "Prime Minister",
+         "mandate_start": "5 October 1987",
+         "mandate_end": "30 December 1987",
+         "term_length": "86 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Benazir Bhutto",
+         "country": "Pakistan",
+         "office": "Prime Minister",
+         "mandate_start": "2 December 1988",
+         "mandate_end": "6 July 1990",
+         "term_length": "1 year, 216 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Ertha Pascal-Trouillot",
+         "country": "Haiti",
+         "office": "Acting President",
+         "mandate_start": "13 March 1990",
+         "mandate_end": "7 February 1991",
+         "term_length": "331 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Kazimira Prunskienė",
+         "country": "Lithuania",
+         "office": "Prime Minister",
+         "mandate_start": "17 March 1990",
+         "mandate_end": "10 January 1991",
+         "term_length": "299 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Sabine Bergmann-Pohl",
+         "country": "East Germany",
+         "office": "President of the Peoples Chamber",
+         "mandate_start": "5 April 1990",
+         "mandate_end": "2 October 1990",
+         "term_length": "180 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Violeta Chamorro",
+         "country": "Nicaragua",
+         "office": "President",
+         "mandate_start": "25 April 1990",
+         "mandate_end": "10 January 1997",
+         "term_length": "6 years, 260 days",
+         "head_of_state_or_gov": "Head of state and government"
+      },
+      {
+         "name": "Gro Harlem Brundtland",
+         "country": "Norway",
+         "office": "Prime Minister",
+         "mandate_start": "3 November 1990",
+         "mandate_end": "25 October 1996",
+         "term_length": "5 years, 357 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Mary Robinson",
+         "country": "Ireland",
+         "office": "President",
+         "mandate_start": "3 December 1990",
+         "mandate_end": "12 September 1997",
+         "term_length": "6 years, 283 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Khaleda Zia",
+         "country": "Bangladesh",
+         "office": "Prime Minister",
+         "mandate_start": "27 February 1991",
+         "mandate_end": "30 March 1996",
+         "term_length": "5 years, 32 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Édith Cresson",
+         "country": "France",
+         "office": "Prime Minister",
+         "mandate_start": "15 May 1991",
+         "mandate_end": "2 April 1992",
+         "term_length": "323 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Hanna Suchocka",
+         "country": "Poland",
+         "office": "Prime Minister",
+         "mandate_start": "11 July 1992",
+         "mandate_end": "25 October 1993",
+         "term_length": "1 year, 106 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Tansu Çiller",
+         "country": "Turkey",
+         "office": "Prime Minister",
+         "mandate_start": "13 June 1993",
+         "mandate_end": "6 March 1996",
+         "term_length": "2 years, 267 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Kim Campbell",
+         "country": "Canada",
+         "office": "Prime Minister",
+         "mandate_start": "25 June 1993",
+         "mandate_end": "4 November 1993",
+         "term_length": "132 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Sylvie Kinigi",
+         "country": "Burundi",
+         "office": "Prime Minister",
+         "mandate_start": "10 July 1993",
+         "mandate_end": "27 October 1993",
+         "term_length": "109 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Agathe Uwilingiyimana",
+         "country": "Rwanda",
+         "office": "Prime Minister",
+         "mandate_start": "18 July 1993",
+         "mandate_end": "7 April 1994(assassinated)",
+         "term_length": "263 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Benazir Bhutto",
+         "country": "Pakistan",
+         "office": "Prime Minister",
+         "mandate_start": "19 October 1993",
+         "mandate_end": "5 November 1996",
+         "term_length": "3 years, 17 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Sylvie Kinigi",
+         "country": "Burundi",
+         "office": "Acting President",
+         "mandate_start": "27 October 1993",
+         "mandate_end": "5 February 1994",
+         "term_length": "101 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Chandrika Kumaratunga",
+         "country": "Sri Lanka",
+         "office": "Prime Minister",
+         "mandate_start": "19 August 1994",
+         "mandate_end": "12 November 1994",
+         "term_length": "85 days",
+         "head_of_state_or_gov": "Deputy head of government"
+      },
+      {
+         "name": "Sirimavo Bandaranaike",
+         "country": "Sri Lanka",
+         "office": "Prime Minister",
+         "mandate_start": "14 November 1994",
+         "mandate_end": "9 August 2000",
+         "term_length": "5 years, 269 days",
+         "head_of_state_or_gov": "Deputy head of government"
+      },
+      {
+         "name": "Reneta Indzhova",
+         "country": "Bulgaria",
+         "office": "Acting Prime Minister",
+         "mandate_start": "17 October 1994",
+         "mandate_end": "25 January 1995",
+         "term_length": "100 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Claudette Werleigh",
+         "country": "Haiti",
+         "office": "Prime Minister",
+         "mandate_start": "7 November 1995",
+         "mandate_end": "27 February 1996",
+         "term_length": "112 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Sheikh Hasina",
+         "country": "Bangladesh",
+         "office": "Prime Minister",
+         "mandate_start": "12 June 1996",
+         "mandate_end": "15 July 2001",
+         "term_length": "5 years, 33 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Ruth Perry",
+         "country": "Liberia",
+         "office": "Chairman of the Council of State",
+         "mandate_start": "3 September 1996",
+         "mandate_end": "2 August 1997",
+         "term_length": "333 days",
+         "head_of_state_or_gov": "Head of state and government"
+      },
+      {
+         "name": "Rosalía Arteaga Serrano",
+         "country": "Ecuador",
+         "office": "Acting President",
+         "mandate_start": "9 February 1997",
+         "mandate_end": "11 February 1997",
+         "term_length": "2 days",
+         "head_of_state_or_gov": "Head of state and government"
+      },
+      {
+         "name": "Mary McAleese",
+         "country": "Ireland",
+         "office": "President",
+         "mandate_start": "11 November 1997",
+         "mandate_end": "10 November 2011",
+         "term_length": "13 years, 364 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Jenny Shipley",
+         "country": "New Zealand",
+         "office": "Prime Minister",
+         "mandate_start": "5 December 1997",
+         "mandate_end": "5 December 1999",
+         "term_length": "2 years, 0 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Janet Jagan",
+         "country": "Guyana",
+         "office": "Prime Minister",
+         "mandate_start": "17 March 1997",
+         "mandate_end": "19 December 1997",
+         "term_length": "277 days",
+         "head_of_state_or_gov": "*"
+      },
+      {
+         "name": "Irena Degutienė",
+         "country": "Lithuania",
+         "office": "Acting Prime Minister",
+         "mandate_start": "4 May 1999",
+         "mandate_end": "18 May 1999",
+         "term_length": "14 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Vaira Vīķe-Freiberga",
+         "country": "Latvia",
+         "office": "President",
+         "mandate_start": "8 July 1999",
+         "mandate_end": "8 July 2007",
+         "term_length": "8 years, 0 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Nyam-Osoryn Tuyaa",
+         "country": "Mongolia",
+         "office": "Acting Prime Minister",
+         "mandate_start": "22 July 1999",
+         "mandate_end": "30 July 1999",
+         "term_length": "8 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Mireya Moscoso",
+         "country": "Panama",
+         "office": "President",
+         "mandate_start": "1 September 1999",
+         "mandate_end": "1 September 2004",
+         "term_length": "5 years, 0 days",
+         "head_of_state_or_gov": "Head of state and government"
+      },
+      {
+         "name": "Irena Degutienė",
+         "country": "Lithuania",
+         "office": "Acting Prime Minister",
+         "mandate_start": "27 October 1999",
+         "mandate_end": "3 November 1999",
+         "term_length": "7 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Helen Clark",
+         "country": "New Zealand",
+         "office": "Prime Minister",
+         "mandate_start": "5 December 1999",
+         "mandate_end": "19 November 2008",
+         "term_length": "8 years, 350 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Tarja Halonen",
+         "country": "Finland",
+         "office": "President",
+         "mandate_start": "1 March 2000",
+         "mandate_end": "1 March 2012",
+         "term_length": "12 years, 0 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Gloria Macapagal Arroyo",
+         "country": "Philippines",
+         "office": "President",
+         "mandate_start": "20 January 2001",
+         "mandate_end": "30 June 2010",
+         "term_length": "9 years, 161 days",
+         "head_of_state_or_gov": "Head of state and government"
+      },
+      {
+         "name": "Mame Madior Boye",
+         "country": "Senegal",
+         "office": "Prime Minister",
+         "mandate_start": "3 March 2001",
+         "mandate_end": "4 November 2002",
+         "term_length": "1 year, 246 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Megawati Sukarnoputri",
+         "country": "Indonesia",
+         "office": "President",
+         "mandate_start": "23 July 2001",
+         "mandate_end": "20 October 2004",
+         "term_length": "3 years, 89 days",
+         "head_of_state_or_gov": "Head of state and government"
+      },
+      {
+         "name": "Khaleda Zia",
+         "country": "Bangladesh",
+         "office": "Prime Minister",
+         "mandate_start": "1 October 2001",
+         "mandate_end": "29 October 2006",
+         "term_length": "5 years, 28 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Chang Sang",
+         "country": "South Korea",
+         "office": "Acting Prime Minister",
+         "mandate_start": "11 July 2002",
+         "mandate_end": "31 July 2002",
+         "term_length": "20 days",
+         "head_of_state_or_gov": "*"
+      },
+      {
+         "name": "Maria das Neves",
+         "country": "São Tomé and Príncipe",
+         "office": "Prime Minister",
+         "mandate_start": "3 October 2002",
+         "mandate_end": "18 September 2004",
+         "term_length": "1 year, 351 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Anneli Jäätteenmäki",
+         "country": "Finland",
+         "office": "Prime Minister",
+         "mandate_start": "17 April 2003",
+         "mandate_end": "24 June 2003",
+         "term_length": "68 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Beatriz Merino",
+         "country": "Peru",
+         "office": "Prime Minister",
+         "mandate_start": "28 June 2003",
+         "mandate_end": "15 December 2003",
+         "term_length": "170 days",
+         "head_of_state_or_gov": "*"
+      },
+      {
+         "name": "Nino Burjanadze",
+         "country": "Georgia",
+         "office": "Acting President",
+         "mandate_start": "23 November 2003",
+         "mandate_end": "25 January 2004",
+         "term_length": "63 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Luísa Diogo",
+         "country": "Mozambique",
+         "office": "Prime Minister",
+         "mandate_start": "17 February 2004",
+         "mandate_end": "16 January 2010",
+         "term_length": "5 years, 333 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Barbara Prammer",
+         "country": "Austria",
+         "office": "Co-Acting President",
+         "mandate_start": "6 July 2004",
+         "mandate_end": "8 July 2004",
+         "term_length": "2 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Radmila Šekerinska",
+         "country": "North Macedonia",
+         "office": "Acting Prime Minister",
+         "mandate_start": "12 May 2004",
+         "mandate_end": "12 June 2004",
+         "term_length": "31 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Yulia Tymoshenko",
+         "country": "Ukraine",
+         "office": "Prime Minister",
+         "mandate_start": "24 January 2005",
+         "mandate_end": "6 September 2005",
+         "term_length": "225 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Maria do Carmo Silveira",
+         "country": "São Tomé and Príncipe",
+         "office": "Prime Minister",
+         "mandate_start": "8 June 2005",
+         "mandate_end": "21 April 2006",
+         "term_length": "317 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Angela Merkel",
+         "country": "Germany",
+         "office": "Chancellor",
+         "mandate_start": "22 November 2005",
+         "mandate_end": "Incumbent",
+         "term_length": "14 years, 36 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Ellen Johnson Sirleaf",
+         "country": "Liberia",
+         "office": "President",
+         "mandate_start": "16 January 2006",
+         "mandate_end": "22 January 2018",
+         "term_length": "12 years, 6 days",
+         "head_of_state_or_gov": "Head of state and government"
+      },
+      {
+         "name": "Michelle Bachelet",
+         "country": "Chile",
+         "office": "President",
+         "mandate_start": "11 March 2006",
+         "mandate_end": "11 March 2010",
+         "term_length": "4 years, 0 days",
+         "head_of_state_or_gov": "Head of state and government"
+      },
+      {
+         "name": "Portia Simpson-Miller",
+         "country": "Jamaica",
+         "office": "Prime Minister",
+         "mandate_start": "30 March 2006",
+         "mandate_end": "11 September 2007",
+         "term_length": "1 year, 165 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Han Myeong-sook",
+         "country": "South Korea",
+         "office": "Prime Minister",
+         "mandate_start": "19 April 2006",
+         "mandate_end": "7 March 2007",
+         "term_length": "322 days",
+         "head_of_state_or_gov": "*"
+      },
+      {
+         "name": "Dalia Itzik",
+         "country": "Israel",
+         "office": "Acting President",
+         "mandate_start": "25 January 2007",
+         "mandate_end": "15 July 2007",
+         "term_length": "171 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Pratibha Patil",
+         "country": "India",
+         "office": "President",
+         "mandate_start": "25 July 2007",
+         "mandate_end": "25 July 2012",
+         "term_length": "5 years, 0 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Nino Burjanadze",
+         "country": "Georgia",
+         "office": "Acting President",
+         "mandate_start": "25 November 2007",
+         "mandate_end": "20 January 2008",
+         "term_length": "56 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Cristina Fernández de Kirchner",
+         "country": "Argentina",
+         "office": "President",
+         "mandate_start": "10 December 2007",
+         "mandate_end": "9 December 2015",
+         "term_length": "7 years, 364 days",
+         "head_of_state_or_gov": "Head of state and government"
+      },
+      {
+         "name": "Yulia Tymoshenko",
+         "country": "Ukraine",
+         "office": "Prime Minister",
+         "mandate_start": "18 December 2007",
+         "mandate_end": "3 March 2010",
+         "term_length": "2 years, 75 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Zinaida Greceanîi",
+         "country": "Moldova",
+         "office": "Prime Minister",
+         "mandate_start": "31 March 2008",
+         "mandate_end": "14 September 2009",
+         "term_length": "1 year, 167 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Michèle Pierre-Louis",
+         "country": "Haiti",
+         "office": "Prime Minister",
+         "mandate_start": "5 September 2008",
+         "mandate_end": "11 November 2009",
+         "term_length": "1 year, 67 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Sheikh Hasina",
+         "country": "Bangladesh",
+         "office": "Prime Minister",
+         "mandate_start": "6 January 2009",
+         "mandate_end": "Incumbent",
+         "term_length": "10 years, 356 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Jóhanna Sigurðardóttir",
+         "country": "Iceland",
+         "office": "Prime Minister",
+         "mandate_start": "1 February 2009",
+         "mandate_end": "23 May 2013",
+         "term_length": "4 years, 111 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Rose Francine Rogombé",
+         "country": "Gabon",
+         "office": "Acting President",
+         "mandate_start": "10 June 2009",
+         "mandate_end": "16 October 2009",
+         "term_length": "128 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Jadranka Kosor",
+         "country": "Croatia",
+         "office": "Prime Minister",
+         "mandate_start": "6 July 2009",
+         "mandate_end": "23 December 2011",
+         "term_length": "2 years, 170 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Dalia Grybauskaitė",
+         "country": "Lithuania",
+         "office": "President",
+         "mandate_start": "12 July 2009",
+         "mandate_end": "12 July 2019",
+         "term_length": "10 years, 0 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Cécile Manorohanta",
+         "country": "Madagascar",
+         "office": "Acting Prime Minister",
+         "mandate_start": "18 December 2009",
+         "mandate_end": "20 December 2009",
+         "term_length": "2 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Roza Otunbayeva",
+         "country": "Kyrgyzstan",
+         "office": "President",
+         "mandate_start": "7 April 2010",
+         "mandate_end": "1 December 2011",
+         "term_length": "1 year, 238 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Laura Chinchilla",
+         "country": "Costa Rica",
+         "office": "President",
+         "mandate_start": "8 May 2010",
+         "mandate_end": "8 May 2014",
+         "term_length": "4 years, 0 days",
+         "head_of_state_or_gov": "Head of state and government"
+      },
+      {
+         "name": "Kamla Persad-Bissessar",
+         "country": "Trinidad and Tobago",
+         "office": "Prime Minister",
+         "mandate_start": "26 May 2010",
+         "mandate_end": "9 September 2015",
+         "term_length": "5 years, 106 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Mari Kiviniemi",
+         "country": "Finland",
+         "office": "Prime Minister",
+         "mandate_start": "22 June 2010",
+         "mandate_end": "22 June 2011",
+         "term_length": "1 year, 0 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Julia Gillard",
+         "country": "Australia",
+         "office": "Prime Minister",
+         "mandate_start": "24 June 2010",
+         "mandate_end": "27 June 2013",
+         "term_length": "3 years, 3 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Iveta Radičová",
+         "country": "Slovakia",
+         "office": "Prime Minister",
+         "mandate_start": "8 July 2010",
+         "mandate_end": "4 April 2012",
+         "term_length": "1 year, 271 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Dilma Rousseff",
+         "country": "Brazil",
+         "office": "President",
+         "mandate_start": "1 January 2011",
+         "mandate_end": "31 August 2016Suspended 12 May 2016",
+         "term_length": "5 years, 243 days5 years, 132 days",
+         "head_of_state_or_gov": "Head of state and government"
+      },
+      {
+         "name": "Rosario Fernández",
+         "country": "Peru",
+         "office": "Prime Minister",
+         "mandate_start": "19 March 2011",
+         "mandate_end": "28 July 2011",
+         "term_length": "131 days",
+         "head_of_state_or_gov": "*"
+      },
+      {
+         "name": "Cissé Mariam Kaïdama Sidibé",
+         "country": "Mali",
+         "office": "Prime Minister",
+         "mandate_start": "3 April 2011",
+         "mandate_end": "22 March 2012",
+         "term_length": "354 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Atifete Jahjaga",
+         "country": "Kosovo",
+         "office": "President",
+         "mandate_start": "7 April 2011",
+         "mandate_end": "7 April 2016",
+         "term_length": "5 years, 0 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Yingluck Shinawatra",
+         "country": "Thailand",
+         "office": "Prime Minister",
+         "mandate_start": "3 July 2011",
+         "mandate_end": "7 May 2014",
+         "term_length": "2 years, 308 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Helle Thorning-Schmidt",
+         "country": "Denmark",
+         "office": "Prime Minister",
+         "mandate_start": "3 October 2011",
+         "mandate_end": "28 June 2015",
+         "term_length": "3 years, 268 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Portia Simpson-Miller",
+         "country": "Jamaica",
+         "office": "Prime Minister",
+         "mandate_start": "5 January 2012",
+         "mandate_end": "3 March 2016",
+         "term_length": "4 years, 58 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Adiato Djaló Nandigna",
+         "country": "Guinea-Bissau",
+         "office": "Acting Prime Minister",
+         "mandate_start": "10 February 2012",
+         "mandate_end": "12 April 2012",
+         "term_length": "62 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Monique Ohsan Bellepeau",
+         "country": "Mauritius",
+         "office": "Acting President",
+         "mandate_start": "31 March 2012",
+         "mandate_end": "21 July 2012",
+         "term_length": "112 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Slavica Đukić Dejanović",
+         "country": "Serbia",
+         "office": "Acting President",
+         "mandate_start": "5 April 2012",
+         "mandate_end": "31 May 2012",
+         "term_length": "56 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Joyce Banda",
+         "country": "Malawi",
+         "office": "President",
+         "mandate_start": "7 April 2012",
+         "mandate_end": "31 May 2014",
+         "term_length": "2 years, 54 days",
+         "head_of_state_or_gov": "Head of state and government"
+      },
+      {
+         "name": "Park Geun-hye",
+         "country": "South Korea",
+         "office": "President",
+         "mandate_start": "25 February 2013",
+         "mandate_end": "10 March 2017Suspended 9 December 2016",
+         "term_length": "4 years, 13 days3 years, 288 days",
+         "head_of_state_or_gov": "Head of state and government"
+      },
+      {
+         "name": "Alenka Bratušek",
+         "country": "Slovenia",
+         "office": "Prime Minister",
+         "mandate_start": "20 March 2013",
+         "mandate_end": "18 September 2014",
+         "term_length": "1 year, 182 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Sibel Siber",
+         "country": "Northern Cyprus",
+         "office": "Prime Minister",
+         "mandate_start": "13 June 2013",
+         "mandate_end": "2 September 2013",
+         "term_length": "81 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Tatiana Turanskaya",
+         "country": "Transnistria",
+         "office": "Prime Minister",
+         "mandate_start": "10 June 2013",
+         "mandate_end": "13 October 2015",
+         "term_length": "2 years, 125 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Aminata Touré",
+         "country": "Senegal",
+         "office": "Prime Minister",
+         "mandate_start": "1 September 2013",
+         "mandate_end": "8 July 2014",
+         "term_length": "310 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Erna Solberg",
+         "country": "Norway",
+         "office": "Prime Minister",
+         "mandate_start": "16 October 2013",
+         "mandate_end": "Incumbent",
+         "term_length": "6 years, 73 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Laimdota Straujuma",
+         "country": "Latvia",
+         "office": "Prime Minister",
+         "mandate_start": "22 January 2014",
+         "mandate_end": "11 February 2016",
+         "term_length": "2 years, 20 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Catherine Samba-Panza",
+         "country": "Central African Republic",
+         "office": "Acting President",
+         "mandate_start": "23 January 2014",
+         "mandate_end": "30 March 2016",
+         "term_length": "2 years, 67 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Michelle Bachelet",
+         "country": "Chile",
+         "office": "President",
+         "mandate_start": "11 March 2014",
+         "mandate_end": "11 March 2018",
+         "term_length": "4 years, 0 days",
+         "head_of_state_or_gov": "Head of state and government"
+      },
+      {
+         "name": "Marie-Louise Coleiro Preca",
+         "country": "Malta",
+         "office": "President",
+         "mandate_start": "4 April 2014",
+         "mandate_end": "4 April 2019",
+         "term_length": "5 years, 0 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Ana Jara",
+         "country": "Peru",
+         "office": "Prime Minister",
+         "mandate_start": "22 July 2014",
+         "mandate_end": "2 April 2015",
+         "term_length": "254 days",
+         "head_of_state_or_gov": "*"
+      },
+      {
+         "name": "Ewa Kopacz",
+         "country": "Poland",
+         "office": "Prime Minister",
+         "mandate_start": "22 September 2014",
+         "mandate_end": "16 November 2015",
+         "term_length": "1 year, 55 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Florence Duperval Guillaume",
+         "country": "Haiti",
+         "office": "Acting Prime Minister",
+         "mandate_start": "20 December 2014",
+         "mandate_end": "16 January 2015",
+         "term_length": "27 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Kolinda Grabar-Kitarović",
+         "country": "Croatia",
+         "office": "President",
+         "mandate_start": "19 February 2015",
+         "mandate_end": "Incumbent",
+         "term_length": "4 years, 312 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Saara Kuugongelwa",
+         "country": "Namibia",
+         "office": "Prime Minister",
+         "mandate_start": "21 March 2015",
+         "mandate_end": "Incumbent",
+         "term_length": "4 years, 282 days",
+         "head_of_state_or_gov": "*"
+      },
+      {
+         "name": "Monique Ohsan Bellepeau",
+         "country": "Mauritius",
+         "office": "Acting President",
+         "mandate_start": "29 May 2015",
+         "mandate_end": "5 June 2015",
+         "term_length": "7 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Ameenah Gurib",
+         "country": "Mauritius",
+         "office": "President",
+         "mandate_start": "5 June 2015",
+         "mandate_end": "23 March 2018",
+         "term_length": "2 years, 291 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Natalia Gherman",
+         "country": "Moldova",
+         "office": "Acting Prime Minister",
+         "mandate_start": "22 June 2015",
+         "mandate_end": "30 July 2015",
+         "term_length": "38 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Vassiliki Thanou",
+         "country": "Greece",
+         "office": "Acting Prime Minister",
+         "mandate_start": "27 August 2015",
+         "mandate_end": "21 September 2015",
+         "term_length": "25 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Maya Parnas",
+         "country": "Transnistria",
+         "office": "Acting Prime Minister",
+         "mandate_start": "13 October 2015",
+         "mandate_end": "30 November 2015",
+         "term_length": "48 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Bidhya Devi Bhandari",
+         "country": "  Nepal",
+         "office": "President",
+         "mandate_start": "29 October 2015",
+         "mandate_end": "Incumbent",
+         "term_length": "4 years, 60 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Beata Szydło",
+         "country": "Poland",
+         "office": "Prime Minister",
+         "mandate_start": "16 November 2015",
+         "mandate_end": "11 December 2017",
+         "term_length": "2 years, 25 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Tatiana Turanskaya",
+         "country": "Transnistria",
+         "office": "Prime Minister",
+         "mandate_start": "30 November 2015",
+         "mandate_end": "2 December 2015",
+         "term_length": "2 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Maya Parnas",
+         "country": "Transnistria",
+         "office": "Acting Prime Minister",
+         "mandate_start": "2 December 2015",
+         "mandate_end": "23 December 2015",
+         "term_length": "21 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Hilda Heine",
+         "country": "Marshall Islands",
+         "office": "President",
+         "mandate_start": "28 January 2016",
+         "mandate_end": "Incumbent",
+         "term_length": "3 years, 334 days",
+         "head_of_state_or_gov": "Head of state and government"
+      },
+      {
+         "name": "Aung San Suu Kyi",
+         "country": "Myanmar",
+         "office": "State Counsellor",
+         "mandate_start": "6 April 2016",
+         "mandate_end": "Incumbent",
+         "term_length": "3 years, 266 days",
+         "head_of_state_or_gov": "de facto Head of government"
+      },
+      {
+         "name": "Tsai Ing-wen",
+         "country": "Taiwan",
+         "office": "President",
+         "mandate_start": "20 May 2016",
+         "mandate_end": "Incumbent",
+         "term_length": "3 years, 222 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Doris Bures",
+         "country": "Austria",
+         "office": "Co-Acting President",
+         "mandate_start": "8 July 2016",
+         "mandate_end": "26 January 2017",
+         "term_length": "202 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Theresa May",
+         "country": "United Kingdom",
+         "office": "Prime Minister",
+         "mandate_start": "13 July 2016",
+         "mandate_end": "24 July 2019",
+         "term_length": "3 years, 11 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Kersti Kaljulaid",
+         "country": "Estonia",
+         "office": "President",
+         "mandate_start": "10 October 2016",
+         "mandate_end": "Incumbent",
+         "term_length": "3 years, 79 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Ana Brnabić",
+         "country": "Serbia",
+         "office": "Prime Minister",
+         "mandate_start": "29 June 2017",
+         "mandate_end": "Incumbent",
+         "term_length": "2 years, 182 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Halimah Yacob",
+         "country": "Singapore",
+         "office": "President",
+         "mandate_start": "14 September 2017",
+         "mandate_end": "Incumbent",
+         "term_length": "2 years, 105 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Mercedes Aráoz",
+         "country": "Peru",
+         "office": "Prime Minister",
+         "mandate_start": "17 September 2017",
+         "mandate_end": "2 April 2018",
+         "term_length": "197 days",
+         "head_of_state_or_gov": "*"
+      },
+      {
+         "name": "Jacinda Ardern",
+         "country": "New Zealand",
+         "office": "Prime Minister",
+         "mandate_start": "26 October 2017",
+         "mandate_end": "Incumbent",
+         "term_length": "2 years, 63 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Katrín Jakobsdóttir",
+         "country": "Iceland",
+         "office": "Prime Minister",
+         "mandate_start": "30 November 2017",
+         "mandate_end": "Incumbent",
+         "term_length": "2 years, 28 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Viorica Dăncilă",
+         "country": "Romania",
+         "office": "Prime Minister",
+         "mandate_start": "29 January 2018",
+         "mandate_end": "4 November 2019",
+         "term_length": "1 year, 279 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Paula-Mae Weekes",
+         "country": "Trinidad and Tobago",
+         "office": "President",
+         "mandate_start": "19 March 2018",
+         "mandate_end": "Incumbent",
+         "term_length": "1 year, 284 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Mia Mottley",
+         "country": "Barbados",
+         "office": "Prime Minister",
+         "mandate_start": "25 May 2018",
+         "mandate_end": "Incumbent",
+         "term_length": "1 year, 217 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Đặng Thị Ngọc Thịnh",
+         "country": "Vietnam",
+         "office": "Acting President",
+         "mandate_start": "21 September 2018",
+         "mandate_end": "23 October 2018",
+         "term_length": "32 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Sahle-Work Zewde",
+         "country": "Ethiopia",
+         "office": "President",
+         "mandate_start": "25 October 2018",
+         "mandate_end": "Incumbent",
+         "term_length": "1 year, 64 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Salome Zurabishvili",
+         "country": "Georgia",
+         "office": "President",
+         "mandate_start": "16 December 2018",
+         "mandate_end": "Incumbent",
+         "term_length": "1 year, 12 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Brigitte Bierlein",
+         "country": "Austria",
+         "office": "Chancellor",
+         "mandate_start": "3 June 2019",
+         "mandate_end": "Incumbent",
+         "term_length": "208 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Maia Sandu",
+         "country": "Moldova",
+         "office": "Prime Minister",
+         "mandate_start": "8 June 2019",
+         "mandate_end": "14 November 2019",
+         "term_length": "159 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Zuzana Čaputová",
+         "country": "Slovakia",
+         "office": "President",
+         "mandate_start": "15 June 2019",
+         "mandate_end": "Incumbent",
+         "term_length": "196 days",
+         "head_of_state_or_gov": "Head of state"
+      },
+      {
+         "name": "Mette Frederiksen",
+         "country": "Denmark",
+         "office": "Prime Minister",
+         "mandate_start": "27 June 2019",
+         "mandate_end": "Incumbent",
+         "term_length": "184 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Sophie Wilmès",
+         "country": "Belgium",
+         "office": "Prime Minister",
+         "mandate_start": "27 October 2019",
+         "mandate_end": "Incumbent",
+         "term_length": "62 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Jeanine Áñez (de-facto)",
+         "country": "Bolivia",
+         "office": "Acting President",
+         "mandate_start": "12 November 2019",
+         "mandate_end": "Incumbent",
+         "term_length": "46 days",
+         "head_of_state_or_gov": "Head of state and government"
+      },
+      {
+         "name": "Sanna Marin",
+         "country": "Finland",
+         "office": "Prime Minister",
+         "mandate_start": "10 December 2019",
+         "mandate_end": "Incumbent",
+         "term_length": "18 days",
+         "head_of_state_or_gov": "Head of government"
+      },
+      {
+         "name": "Chandrika Kumaratunga",
+         "country": "Sri Lanka",
+         "office": "Prime Minister",
+         "mandate_start": "19 August 1994",
+         "mandate_end": "19 November 2005",
+         "term_length": "11 years, 92 days",
+         "head_of_state_or_gov": "Head of state and government"
+      },
+      {
+         "name": "Janet Jagan",
+         "country": "Guyana",
+         "office": "Prime Minister",
+         "mandate_start": "17 March 1997",
+         "mandate_end": "11 August 1999",
+         "term_length": "2 years, 147 days",
+         "head_of_state_or_gov": "Head of state and government"
+      }
+   ]
+}
