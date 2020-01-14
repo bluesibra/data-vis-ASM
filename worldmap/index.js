@@ -1,4 +1,5 @@
 import { select, json,
+	tsv, 
         geoPath,
         geoNaturalEarth1, zoom,
         event } from 'd3';
@@ -24,12 +25,21 @@ svg.call(zoom().on('zoom', () => {
   g.attr('transform', d3.event.transform);
 }
   ));
-
-json('https://unpkg.com/world-atlas@1.1.4/world/50m.json')
-	.then(data => {
-  const countries = feature(data, data.objects.countries);
+Promise.all([
+  tsv('https://unpkg.com/world-atlas@1.1.4/world/50m.tsv'),
+  json('https://unpkg.com/world-atlas@1.1.4/world/50m.json')
+]).then(([tsvData, topoJSONdata]) => {
+	
+ const countryName = tsvData.reduce((accumulator, d) => {
+    accumulator[d.iso_n3] = d.name;
+    return accumulator;
+  }, {});
+	
+  const countries = feature(topoJSONdata, topoJSONdata.objects.countries);
   g.selectAll('path').data(countries.features)
       .enter().append('path')
-  		.attr('class', 'country')
-  		.attr('d', pathGenerator)
+      	.attr('class', 'country')
+      	.attr('d', pathGenerator)
+      .append('title')
+      	.text(d => countryName[d.id]);
 })
