@@ -24,7 +24,7 @@ Data:
 Interactivity:
 - create world map w/ geomapping (in D3 book) - done
 - highlight upon hover - done
-- display tooltips with country names - S
+- display tooltips with country names - S - done
 - colored highlighting based on whether the person in power right now is female - G
 - intensity based on how many female leaders there have been historically - G
 - slider so that we can see who's in power in different years
