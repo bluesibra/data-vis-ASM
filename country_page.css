@@ -4,6 +4,7 @@ body {
   font-family: Garamond;
   display: flex;
   flex-direction: column;
+  overflow: auto;
 }
 
 div {
@@ -33,4 +34,19 @@ h2 {
 
 #head_of_state {
   /* background-color: white; */
+}
+
+#hos_list {
+  border-style: solid;
+  display: flex;
+  flex-direction: column;
+}
+
+.hos {
+  display: flex;
+  flex-direction: row;
+}
+
+.desc {
+  flex-shrink: 100;
 }
