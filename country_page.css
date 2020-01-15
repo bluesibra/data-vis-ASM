@@ -1,0 +1,36 @@
+@import "styles.css";
+
+body {
+  font-family: Garamond;
+  display: flex;
+  flex-direction: column;
+}
+
+div {
+  margin: 20px auto 0 auto;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+  opacity: 75%;
+  transition: opacity 0.5s;
+}
+
+div:hover {
+  opacity: 100%;
+}
+
+h1 {
+  margin: 0;
+}
+
+h2 {
+  margin: 0;
+}
+
+#country_name {
+  /* background-color: white; */
+}
+
+#head_of_state {
+  /* background-color: white; */
+}

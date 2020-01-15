@@ -20,27 +20,29 @@
     d3.tsv('https://unpkg.com/world-atlas@1.1.4/world/50m.tsv'),
     d3.json('https://unpkg.com/world-atlas@1.1.4/world/50m.json')
   ]).then(([tsvData, topoJSONdata]) => {
-    
+
     const countryName = tsvData.reduce((accumulator, d) => {
       accumulator[d.iso_n3] = d.name;
       return accumulator;
     }, {});
-    
+
     /*
     const countryName = {};
     tsvData.forEach(d => {
       countryName[d.iso_n3] = d.name;
     });
     */
-    
+
     const countries = topojson.feature(topoJSONdata, topoJSONdata.objects.countries);
     g.selectAll('path').data(countries.features)
-      .enter().append('path')
+      .enter().append('a')
+        .attr('href', d => 'country_page.html?name=' + countryName[d.id])
+      .append('path')
         .attr('class', 'country')
         .attr('d', pathGenerator)
       .append('title')
         .text(d => countryName[d.id]);
-    
+
   });
 
 }(d3,topojson));
