@@ -22,8 +22,8 @@ d3.json('https://invinciblejackalope.github.io/data-vis-ASM/headsofstate.json').
 d3.csv('https://invinciblejackalope.github.io/data-vis-ASM/FinalDataset.csv').then(function(data) {
   var hos = d3.select('#hos_list').selectAll('div').data(data).enter().filter(d => d.stateHeads__country === countryName)
     .append('div').attr('class', 'hos');
-  var data1 = hos.append('div');
-  data1.append('p').text(d => d.stateHeads__name);
+  var data1 = hos.append('div').attr('class', 'data');
+  data1.append('h4').text(d => d.stateHeads__name);
   data1.append('p').text(d => d.stateHeads__office + ' of ' + d.stateHeads__country);
   data1.append('p').text(function(d) {
       if (d.stateHeads__mandate_end === 'Incumbent') {
@@ -33,8 +33,12 @@ d3.csv('https://invinciblejackalope.github.io/data-vis-ASM/FinalDataset.csv').th
       }
     })
   data1.append('p').text(d => 'Served for a total of ' + d.stateHeads__term_length);
-  hos.append('div').attr('class', 'desc').append('p').text(d => d.stateHeads__description);
-  hos.append('div').append('img').attr('src', d => d.stateHeads__img.substring(2));
+  hos.append('div').attr('class', 'data').append('p').text(d => d.stateHeads__description);
+  hos.append('div').attr('class', 'img').append('img').attr('src', d => 'https://' + d.stateHeads__img.substring(2));
+
+  if (d3.select('#hos_list').selectAll('div').empty()) {
+    d3.select('#hos_list').append('p').text('No past female heads of state found :(');
+  }
 });
 
 // d3.select('#head_of_state').text();

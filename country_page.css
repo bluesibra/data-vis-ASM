@@ -2,39 +2,19 @@
 
 body {
   font-family: Garamond;
-  display: flex;
-  flex-direction: column;
   overflow: auto;
 }
 
 div {
-  margin: 20px auto 0 auto;
-  padding: 10px;
-  border-radius: 10px;
+  margin: 0 auto;
   text-align: center;
-  opacity: 75%;
-  transition: opacity 0.5s;
+  /* opacity: 75%; */
+  /* transition: opacity 0.5s; */
 }
 
-div:hover {
+/* div:hover {
   opacity: 100%;
-}
-
-h1 {
-  margin: 0;
-}
-
-h2 {
-  margin: 0;
-}
-
-#country_name {
-  /* background-color: white; */
-}
-
-#head_of_state {
-  /* background-color: white; */
-}
+} */
 
 #hos_list {
   border-style: solid;
@@ -44,9 +24,24 @@ h2 {
 
 .hos {
   display: flex;
-  flex-direction: row;
+  width: 100%;
 }
 
-.desc {
-  flex-shrink: 100;
+.data {
+  width: 33%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.data p {
+  margin: 0;
+}
+
+.data h4 {
+  margin-top: 0;
+}
+
+.img {
+  width: 33%;
 }
