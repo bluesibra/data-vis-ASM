@@ -3,10 +3,14 @@
 
   const svg = d3.select('svg');
 
-  const projection = d3.geoNaturalEarth1();
+  const projection = d3.geoNaturalEarth1().scale(window.innerHeight / 570 * 200)
+    .translate([window.innerWidth/2, window.innerHeight/2]);
   const pathGenerator = d3.geoPath().projection(projection);
 
   const g = svg.append('g');
+
+  svg.attr('width', window.innerWidth);
+  svg.attr('height', window.innerHeight);
 
   g.append('path')
       .attr('class', 'sphere')

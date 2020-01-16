@@ -1,18 +1,25 @@
 body {
 	margin: 0px;
   overflow: hidden;
-  background-color: #3E6990;
+  /* background-color: #3E6990; */
 }
 
 .sphere {
-  fill: #3E6990
+  /* fill: #3E6990 */
+	fill: white;
 }
 
 .country {
-  stroke: #2F3061;
+  /* stroke: #2F3061; */
+	stroke: black;
   stroke-opacity: 0.5;
-  fill: #E2DBBE;
+  /* fill: #E2DBBE; */
+	fill: lightgray;
+	opacity: 0.5;
+	transition: 0.2s;
 }
 .country:hover{
-  fill: #ECA400;
+  /* fill: #ECA400; */
+	fill: pink;
+	opacity: 1;
 }
