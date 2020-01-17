@@ -33,4 +33,4 @@ Pages:
 - create pages for each country with the necessary information - J
 
 Design:
-- make it look nice!
+- make it look nice! - done(G)
