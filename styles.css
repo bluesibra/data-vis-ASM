@@ -7,7 +7,7 @@ body {
 
 .sphere {
   /* fill: #3E6990 */
-	fill: ivory;
+	fill: #b9d4c5;
 }
 
 .country {
@@ -15,13 +15,13 @@ body {
 	stroke: black;
   stroke-opacity: 0.5;
   /* fill: #E2DBBE; */
-	fill: lightgray;
+	fill: #fefdf9;
 	opacity: 0.5;
 	transition: 0.1s;
 }
 
 .country:hover{
   /* fill: #ECA400; */
-	fill: pink;
+	fill: #f2693d;
 	opacity: 1;
 }

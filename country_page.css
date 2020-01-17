@@ -1,10 +1,16 @@
 @import "styles.css";
-
+@import url('https://fonts.googleapis.com/css?family=Lato|Open+Sans:600&display=swap');
 body {
   font-family: sans-serif;
   overflow: auto;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  color: #7baea2;
 }
-
+#country_name{
+  padding:0;
+  font-size:320%;
+}
 div {
   margin: 0 auto;
   text-align: center;
@@ -21,7 +27,9 @@ div {
   display: flex;
   flex-direction: column;
 }
-
+#hos_list h3{
+  font-style: italic;
+}
 .hos {
   display: flex;
   width: 100%;
@@ -47,11 +55,17 @@ div {
 }
 
 .data p {
+  font-family: 'Open Sans', sans-serif;
+  color: #724d49;
   margin: 0;
 }
 
 .data h4 {
+  font-weight: bold;
   margin-top: 0;
+  font-family: 'Lato', sans-serif;
+  color: #bf6545;
+  font-size:220%;
 }
 
 .img {
@@ -64,7 +78,7 @@ table {
 }
 
 thead {
-  background-color: lightgray;
+  background-color: #fbfcf7;
 }
 
 th {
