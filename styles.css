@@ -2,11 +2,12 @@ body {
 	margin: 0px;
   overflow: hidden;
   /* background-color: #3E6990; */
+	background-color: ivory;
 }
 
 .sphere {
   /* fill: #3E6990 */
-	fill: white;
+	fill: ivory;
 }
 
 .country {
@@ -16,8 +17,9 @@ body {
   /* fill: #E2DBBE; */
 	fill: lightgray;
 	opacity: 0.5;
-	transition: 0.2s;
+	transition: 0.1s;
 }
+
 .country:hover{
   /* fill: #ECA400; */
 	fill: pink;
