@@ -22,11 +22,19 @@
 
   Promise.all([
     d3.tsv('https://unpkg.com/world-atlas@1.1.4/world/50m.tsv'),
-    d3.json('https://unpkg.com/world-atlas@1.1.4/world/50m.json')
-  ]).then(([tsvData, topoJSONdata]) => {
+    d3.json('https://unpkg.com/world-atlas@1.1.4/world/50m.json'),
+    d3.json('https://invinciblejackalope.github.io/data-vis-ASM/headsofstate.json')
+  ]).then(([tsvData, topoJSONdata, headsOfStateData]) => {
 
     const countryName = tsvData.reduce((accumulator, d) => {
-      accumulator[d.iso_n3] = d.name;
+      if (headsOfStateData[d.name]) {
+        // console.log(d.name)
+        console.log(d.name, headsOfStateData[d.name][1], headsOfStateData[d.name][1] == "Female")
+          accumulator[d.iso_n3] = {"name": d.name, "femaleHoS": headsOfStateData[d.name][1] == "Female"};
+      } else {
+        accumulator[d.iso_n3] = {"name": d.name, "femaleHoS": false};
+      }
+
       return accumulator;
     }, {});
 
@@ -40,12 +48,16 @@
     const countries = topojson.feature(topoJSONdata, topoJSONdata.objects.countries);
     g.selectAll('path').data(countries.features)
       .enter().append('a')
-        .attr('href', d => 'country_page.html?name=' + countryName[d.id])
+        .attr('href', d => 'country_page.html?name=' + countryName[d.id].name)
       .append('path')
         .attr('class', 'country')
         .attr('d', pathGenerator)
+        .style('fill', function (d,i) {
+          console.log(countryName[d.id])
+          return countryName[d.id].femaleHoS ? "#a668f2" : "#fefdf9"
+         })
       .append('title')
-        .text(d => countryName[d.id]);
+        .text(d => countryName[d.id].name);
 
   });
 
